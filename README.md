@@ -1,4 +1,4 @@
-﻿# 🏥 Smart Pharmacy Locker (ตู้รับยาอัจฉริยะ)
+# 🏥 Smart Pharmacy Locker (ตู้รับยาอัจฉริยะ)
 
 > **IoT & AI-Powered Smart Locker System with Conveyor Sorting, 5-Rights Double-Check Station, and Closed-Loop Medication Safety for Elderly Patients**  
 > *นวัตกรรมตู้รับยาอัตโนมัติพร้อมระบบสายพานลำเลียงอัจฉริยะ จุดตรวจซ้ำความปลอดภัย 5 Rights และผู้ช่วยอธิบายยาสำหรับผู้สูงอายุ*
@@ -105,7 +105,7 @@ sequenceDiagram
 
 ### 1. โคลนโปรเจกต์ (Clone Repository)
 ```bash
-git clone https://github.com/sunfluways/smart-pharmacy-locker.git
+git clone https://github.com/underwaves/smart-pharmacy-locker.git
 cd smart-pharmacy-locker
 ```
 
