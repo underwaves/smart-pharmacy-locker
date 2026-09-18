@@ -10,7 +10,7 @@
 [![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Web Speech API](https://img.shields.io/badge/AI_Voice-Thai_Speech-FF6F00?style=for-the-badge&logo=google&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 [![Patient Safety](https://img.shields.io/badge/Safety_Protocol-JCI%20%2F%20HA%20Standard-10B981?style=for-the-badge&logo=shield&logoColor=white)](https://www.jointcommissioninternational.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -176,9 +176,16 @@ smart-pharmacy-locker/
 
 ---
 
-## 📄 ใบอนุญาต (License)
+## 📄 สิทธิ์การใช้งานและการขออนุญาต (License & Contact)
 
-โปรเจกต์นี้เผยแพร่ภายใต้ใบอนุญาต **MIT License** — สามารถนำไปศึกษา พัฒนาต่อยอด และประยุกต์ใช้งานเพื่อประโยชน์สาธารณะได้โดยเสรี
+ผลงานชิ้นนี้ได้รับการคุ้มครองลิขสิทธิ์ภายใต้ **All Rights Reserved (สงวนลิขสิทธิ์ทุกประการ)**:
+* **อนุญาต:** ให้เข้าชมและศึกษาโครงสร้างเพื่อการตรวจประเมินผลงานทางวิชาการและการนำเสนอพอร์ตโฟลิโอเท่านั้น
+* **ไม่อนุญาต:** ให้นำโค้ดหรือระบบไปดัดแปลง ทำซ้ำ ผลิตตู้จริง หรือนำไปใช้ในเชิงพาณิชย์โดยไม่ได้รับอนุญาต
+
+📫 **หากสนใจนำระบบไปใช้งานจริง พัฒนาต่อยอด หรือประยุกต์ใช้ในองค์กร กรุณาติดต่อขออนุญาตเป็นลายลักษณ์อักษรได้ที่:**
+* **ผู้ถือลิขสิทธิ์ (Author):** underwaves
+* **อีเมล (Email):** [woranatxawq@gmail.com](mailto:woranatxawq@gmail.com)
+* **GitHub Profile:** [@underwaves](https://github.com/underwaves)
 
 ---
 <p align="center">
